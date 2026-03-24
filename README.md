@@ -2,18 +2,18 @@
 
 **📌 Overview**
 
--This project focuses on detecting and classifying brain tumors from MRI images using deep learning techniques.
+This project focuses on detecting and classifying brain tumors from MRI images using deep learning techniques.
 
--The system improves tumor detection accuracy by combining preprocessing, segmentation, and classification models.
+The system improves tumor detection accuracy by combining preprocessing, segmentation, and classification models.
 
 **🚀 Features**
--Enhances MRI images using Adaptive Contrast Enhancement (ACE)
+Enhances MRI images using Adaptive Contrast Enhancement (ACE)
 
--Accurate tumor segmentation using Attention U-Net
+Accurate tumor segmentation using Attention U-Net
 
--Classification using ResNet / EfficientNet
+Classification using ResNet / EfficientNet
 
--Supports multi-class tumor detection:
+Supports multi-class tumor detection:
 
     -Glioma
     -Meningioma
@@ -22,39 +22,39 @@
 -High accuracy and better tumor localization
 
 **🧠 System Architecture**
--MRI Image Input
+MRI Image Input
 
--Preprocessing using ACE
+Preprocessing using ACE
 
--Tumor Segmentation using Attention U-Net
+Tumor Segmentation using Attention U-Net
 
--Feature Extraction
+Feature Extraction
 
--Classification using ResNet / EfficientNet
+Classification using ResNet / EfficientNet
 
--Output Prediction
+Output Prediction
 
 **🛠️ Technologies Used**
--Python
+Python
 
--TensorFlow / Keras / PyTorch
+TensorFlow / Keras / PyTorch
 
--OpenCV
+OpenCV
 
--NumPy, Pandas, Matplotlib
+NumPy, Pandas, Matplotlib
 
 **📂 Dataset**
--MRI Brain Tumor Dataset (e.g., Kaggle / BraTS dataset)
+MRI Brain Tumor Dataset (e.g., Kaggle / BraTS dataset)
 
--Images include different tumor types and normal brain scans
+Images include different tumor types and normal brain scans
 
 **📊 Evaluation Metrics**
--Accuracy
+Accuracy
 
--Precision
+Precision
 
--Recall
+Recall
 
--F1-Score
+F1-Score
 
--Dice Coefficient
+Dice Coefficient
